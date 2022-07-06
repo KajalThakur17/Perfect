@@ -1,0 +1,74 @@
+body{font-family: 'Poppins', sans-serif;;}
+
+h2{font-size: 24px; color:#fff; font-weight: 800;}
+h3{ font-weight: bold;}
+p{font-size: 13px; color:#808080;}
+ 
+.nav-section{background-color: #192330;}
+.topnav i{margin-right: 11px; margin-left: 26px; margin-top: 15px; color: #b2b6bd;}
+.topnav .email .ab i{margin-left: 0px;}
+.topnav p{color:#acb4c0; font-size: 12px; font-weight: 400;}
+
+
+.navbar ul li{margin-left: 35px; font-size: 16px; font-weight: 600; padding: 10px 0px;}
+.navbar i{margin-right: 12px;}
+
+
+/* hero */
+.hero{background-image: url(../image/hero.png); height: 671px; background-size:contain; background-repeat: no-repeat; position: relative; opacity: 0.5;}
+.hero img{position: absolute; top: 4px !important; right: 10px; max-width: 150px; border-bottom: 5px solid blue;
+    border-left: 5px solid blue;}
+.hero .btn{color: #fff;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px 56px;
+}
+.hero h1{font-size: 76px; color: #fff; font-weight: 800;}
+.hero p{margin-bottom: 30px; color: #fff;}
+
+/* multi */
+.multi{position: relative;}
+.abs{position: absolute; top: 25px; left: 25px; max-width: 90px !important;}
+.multi h1{font-size: 36px; font-weight: 800; margin-bottom: 44px; margin-top: 100px;}
+span{color: #009688;}
+.multi p{font-size: 13px; font-weight: 400; color: #808080; margin-bottom: 100px;}
+.multi img{max-width: 1000px;}
+
+
+/* icon */
+.iconn{background: #fafafa; padding: 99px 21px;}
+.iconn h3{font-size: 20px; margin-top: 30px; margin-bottom: 20px;}
+.iconn p{line-height: 24px;}
+.iconn i:hover{color: #009688;}
+.iv{background: #fff;}
+
+/* pro */
+.progress{padding: 0; }
+.progress-bar{text-align: end;}
+.tab{padding: 100px 138px;}
+.pro p{ margin-top: 13px;}
+
+/* love */
+
+.love{padding: 100px 138px; background: #fafafa;}
+.love .btn{background: white !important; color:#808080;}
+
+/* yet */
+.yet{background:black; padding: 70px 0px;}
+
+/* team */
+.team{margin: 88px 10px;}
+
+/* price */
+.price{background: url(../image/bg.png); background-size: cover; height: 980px; background-repeat: no-repeat;}
+.price .text-edit{background: black; padding: 24px 9px;} */
+.price h2{font-size: 19px; margin-bottom: 13px;} 
+.price .card-body{padding: 30px 0px;}
+.price .card-body p{border-bottom:1px solid rgb(129, 116, 116) ;padding: 10px 0px;} 
+
+
+/* post */
+.post{margin: 94px 10px;}
+.post .piddu{ position: relative;}
+.post .sd{position:absolute; bottom: -15px; background: #2ca092; padding-bottom: -23px; left: 0px; padding: 8px; color: #fff;}
+.post .cardd{padding: 57px 77px;}
